@@ -1,7 +1,6 @@
 # 2026 AI·SW 융합 – 7주차 대화형 RAG Chatbot 실습
 
 6주차 Basic RAG를 확장하여 **이전 대화를 반영하는 대화형 RAG Chatbot**을 구현합니다.
-(과제 원본: [hjlee-crypto/2026-ai-sw-convergence](https://github.com/hjlee-crypto/2026-ai-sw-convergence))
 
 ## 폴더 구조
 
